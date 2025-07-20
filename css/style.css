@@ -1,0 +1,19 @@
+*{
+    font-family: Arial;
+}
+
+.header {
+    display: flex;
+    background-color: beige;
+    padding: 12px;
+}
+
+.header-logo {
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
+.header-logo img {
+    width: 12px;
+    height: 12px;
+}
